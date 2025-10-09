@@ -14,13 +14,12 @@
 - Aprofundar conhecimentos em **Python e frameworks back-end**  
 - Colaborar em projetos open source  
 
-## 📂 Projetos em Destaque
-- [Projeto 1](link): Descrição breve (ex: "Ainda não realizado")
+## 📂 Projetos pessoais
+- [Projeto 1]([link](https://drive.google.com/drive/folders/1OO5jiosfTx5PUTwlSp5gxAteAPnhDkrL?usp=sharing)): Descrição breve (Uma pasta que contém meus designs gráficos.)
 - [Projeto 2](link): Descrição breve (ex: "Ainda não realizado")
-- [Meu Portfólio](link)
 
 ## 📫 Como me encontrar
-- [LinkedIn](link do seu LinkedIn)
+- LinkedIn: www.linkedin.com/in/marialaurapassos
 - E-mail: mariapassos84019@gmail.com
 
 ## 💻 Dados
@@ -41,3 +40,11 @@
 </div>
 
   <img align="right" alt="Mary-coding" height="150" style="border-radius:10px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJqZzZzbXlpdnlnem00Y252cXI5N2tmMnJ0ZWFnaXhrbHJ1YnlnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif">
+
+
+![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=radical"/>
+</div>
