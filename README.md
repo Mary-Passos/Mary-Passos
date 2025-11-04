@@ -42,9 +42,3 @@
   <img align="right" alt="Mary-coding" height="150" style="border-radius:10px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJqZzZzbXlpdnlnem00Y252cXI5N2tmMnJ0ZWFnaXhrbHJ1YnlnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif">
 
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=radical"/>
-</div>
