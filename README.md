@@ -41,4 +41,5 @@
 
   <img align="right" alt="Mary-coding" height="150" style="border-radius:10px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJqZzZzbXlpdnlnem00Y252cXI5N2tmMnJ0ZWFnaXhrbHJ1YnlnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif">
 
+![Cobrinha comendo meus commits](https://raw.githubusercontent.com/Mary-Passos/Mary-Passos/output/github-contribution-grid-snake.svg)
 
