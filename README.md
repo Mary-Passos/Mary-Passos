@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="100%" style="border-radius: 15px;">
+  <img src="Welcome to Mary’s Github.png" width="100%" style="border-radius: 15px;">
 </p>
 
 <br>
