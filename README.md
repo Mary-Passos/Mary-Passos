@@ -7,7 +7,8 @@
 ## 👋 *𝒪𝓁á, 𝑒𝓊 𝓈𝑜𝓊 𝑀𝒶𝓇𝒾𝒶 𝒫𝒶𝓈𝓈𝑜𝓈!*
 
 🎓 **Análise e Desenvolvimento de Sistemas** (Uninassau) — *Previsão de Conclusão: Julho* 🎓  
-🐍 **Formação Back-End em Python** (Softex) — *Em andamento* 💻 **Curso Complementar Fullstack** (Java, C#, Python, JavaScript, HTML, CSS e Banco de Dados) — *Em andamento* ---
+🐍 **Formação Back-End em Python** (Softex) —  Concluido.
+💻 **Curso Complementar Fullstack** (Java, C#, Python, JavaScript, HTML, CSS e Banco de Dados) — *Em andamento* ---
 
 ## 🛠️ *𝒯𝑒𝒸𝓃𝑜𝓁𝑜𝑔𝒾𝒶𝓈 𝑒 𝐹𝑒𝓇𝓇𝒶𝓂𝑒𝓃𝓉𝒶𝓈*
 
