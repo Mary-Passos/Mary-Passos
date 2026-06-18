@@ -38,7 +38,7 @@
 * ⚙️ Desenvolver projetos práticos integrando lógica de programação a bancos de dados estruturados
 
 ## 📂 *𝒫𝓇𝑜𝒿𝑒𝓉𝑜𝓈 𝒫𝑒𝓈𝓈𝑜𝒶𝒾𝓈*
-* [📂 Meu Portfólio de Design Gráfico](https://drive.google.com/drive/folders/1OO5jiosfTx5PUTwlSp5gxAteAPnhDkrL?usp=sharing) - Pasta que reúne minhas criações de designs visuais, conceitos e artes.
+* [📂 Meus projetos de UI ](https://drive.google.com/drive/folders/1OO5jiosfTx5PUTwlSp5gxAteAPnhDkrL?usp=sharing) - Pasta que reúne minhas criações de designs visuais, conceitos e artes.
 * [🚀 Próximo Projeto](https://github.com/Mary-Passos) - Em breve (focado no desenvolvimento lógico com banco de dados).
 
 ## 📫 *𝒞𝑜𝓂𝑜 𝓂𝑒 𝑒𝓃𝒸𝑜𝓃𝓉𝓇𝒶𝓇*
